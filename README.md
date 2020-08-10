@@ -12,3 +12,5 @@
 - node
 
 ## Jenkinsfile测试
+
+https://github.com/jenkinsci/kubernetes-plugin/blob/master/README.md
